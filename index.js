@@ -21,5 +21,5 @@ function makeInt(n) {
   return(parseInt(n,10))
 }
 function preserveInt(n) {
-  return (parseFloat(n))
+  return(parseFloat(n))
 }
