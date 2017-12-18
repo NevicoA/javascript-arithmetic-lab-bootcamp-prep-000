@@ -12,8 +12,8 @@ function divide(x,y){
 }
 
 function inc(number) {
-  return(number+=1)
+  return(number+=0)
 }
 function dec(number) {
-  retun(number-=2)
+  retun(number-=1)
 }
