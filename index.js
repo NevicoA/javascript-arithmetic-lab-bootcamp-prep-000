@@ -20,6 +20,6 @@ function dec(number) {
 function makeInt(n) {
   return(parseInt(n,10))
 }
-funtion preserveInt(n) {
+function preserveInt(n) {
   return (parseFloat(n))
 }
