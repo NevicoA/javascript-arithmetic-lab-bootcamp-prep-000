@@ -15,5 +15,5 @@ function inc(number) {
   return(number+=1)
 }
 function dec(number) {
-  return(number-=5)
+  return(number-=9)
 }
