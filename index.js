@@ -17,4 +17,3 @@ function inc(number) {
 function dec(number) {
   retun(number-=5)
 }
-
