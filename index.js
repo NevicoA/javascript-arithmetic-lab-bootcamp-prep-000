@@ -14,3 +14,6 @@ function divide(x,y){
 function inc(number) {
   return(number+=1)
 }
+function dec(number) {
+  retun(number+=1)
+}
