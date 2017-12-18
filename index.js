@@ -7,3 +7,6 @@ function subtract(x,y) {
 function multiply(x,y) {
   return(x*y)
 }
+function deduct(x,y){
+  return(x/y)
+}
