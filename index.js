@@ -12,5 +12,5 @@ function divide(x,y){
 }
 
 function inc(number) {
-  return(number++)
+  return(number+)
 }
