@@ -10,3 +10,5 @@ function multiply(x,y) {
 function divide(x,y){
   return(x/y)
 }
+var =5
+inc(5-=3)
